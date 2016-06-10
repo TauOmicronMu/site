@@ -24,3 +24,13 @@ body {
   text-align: center;
   font-size: 64px; 
 }
+
+.buttons {
+  text-align: center;
+}
+
+.buttons a:hover{
+  position: relative;
+  left: 2px;
+  top: 2px;
+}
