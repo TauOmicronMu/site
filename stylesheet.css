@@ -29,6 +29,10 @@ body {
   text-align: center;
 }
 
+.buttons img {
+  border-radius: 20px;
+}
+
 .buttons a:hover{
   position: relative;
   left: 2px;
