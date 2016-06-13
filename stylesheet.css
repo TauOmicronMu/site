@@ -31,7 +31,10 @@ body {
 
 .buttons img {
   border-radius: 20px;
-  margin-top: 10px;
+  margin-top: 2vmin;
+  margin-left: 0.25vmin;
+  margin-right: 0.25vmin;
+  padding: 0.25vmin;
 }
 
 .buttons a:hover{
@@ -41,8 +44,8 @@ body {
 }
 
 #buttonbackground {
-  width: 20%;
-  background-color: aqua;
+  width: 30%;
+  background-color: #0d0d0d;
   margin: 0 auto;
   border-radius:  99999px;
 }
